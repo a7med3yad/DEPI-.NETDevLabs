@@ -5,7 +5,7 @@ This repository contains all the learning materials, practical exercises, and pe
 I will document everything I learn throughout the course, including:
 
 ## Topics Covered
-
+- ✅ SQL Server Fundamentals
 - ✅ C# fundamentals
 - ✅ Object-Oriented Programming (OOP)
 - ✅ .NET Framework vs .NET Core
